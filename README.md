@@ -1,6 +1,9 @@
 # HR-Analytics-Dashboard--Power-BI
 Interactive Dashboard build with Power BI that provides valuable insights among various HR metrics, analyzing employee attrition within the company.
 
+#Dashboard Link 
+(https://www.novypro.com/project/hr-analytics-dashboard-155)
+
 ## Getting Started
 To use this HR Analytics dashboard, follow these steps:
 
